@@ -16,9 +16,9 @@ $("document").ready(function() {
     $("ul").on('click', ".close", function() {
         $(this).parent().animate({width: "0px", opacity: "0"}, 500, function() {
             $(this).remove();
+            saveList()
         });
         Event.stopPropagation();
-        saveList()
     })
     
     $("ul").on('click', "li", function() {
