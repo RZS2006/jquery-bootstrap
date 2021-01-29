@@ -1,2 +1,4 @@
 # jquery-bootstrap
-A To-do list with technologies I'm not going to use that much (jQuery and Bootstrap)
+A todo list created using [jQuery](https://github.com/jquery/jquery) and [Bootstrap](https://github.com/twbs/bootstrap).
+
+*16.05.20 - 21.05.20*
